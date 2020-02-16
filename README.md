@@ -1,1 +1,1 @@
-# CoauthorshipRelationshipPrediction
+# Co-authorship Relationship Prediction
